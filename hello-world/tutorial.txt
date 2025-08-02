@@ -1,0 +1,12 @@
+###Hola mundo Ubuntu.
+
+//El compilador se utiliza con el comando cc, o tambien gcc seguido del nombre del archivo, agregamos la orden -o seguido del nombre que 
+  queremos que tenga el nuevo archivo.
+//Para ejecutarlo lo ejecutamos como un script con ./tab.
+//Se agrega el tipo int antes del main porque es una salida que se espera por defecto.
+
+<stdio.h> //libreria en entrada/salida
+
+int main(){
+printf("Hello World\n");
+}
